@@ -1,1 +1,1 @@
-# Minecraf server using google collab
+# Minecraft server using google collab
